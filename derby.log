@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Sep 27 01:24:38 IST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0183-7b5d-a5f4-0000099429c8 
+on database directory memory:D:\eclipsProjects\spring-boot-validation\a57f7cf6-a1ab-4641-9757-a6f14f9369af with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/ravit/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_341-b10
+user.dir=D:\eclipsProjects\spring-boot-validation
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
